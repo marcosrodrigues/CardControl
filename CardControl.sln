@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardControl.Web", "CardControl.Web\CardControl.Web.csproj", "{36FA0EDE-4B37-4BB1-96A0-8076AB0A24DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardControl.Entidades", "CardControl.Entidades\CardControl.Entidades.csproj", "{72727062-6C7C-4CE6-86F7-697BE671CAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardControl.Persistencia", "CardControl.Persistencia\CardControl.Persistencia.csproj", "{D40782C6-EF12-4C72-B6C3-2F55E40FD3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FA0EDE-4B37-4BB1-96A0-8076AB0A24DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FA0EDE-4B37-4BB1-96A0-8076AB0A24DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FA0EDE-4B37-4BB1-96A0-8076AB0A24DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FA0EDE-4B37-4BB1-96A0-8076AB0A24DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72727062-6C7C-4CE6-86F7-697BE671CAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72727062-6C7C-4CE6-86F7-697BE671CAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72727062-6C7C-4CE6-86F7-697BE671CAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72727062-6C7C-4CE6-86F7-697BE671CAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40782C6-EF12-4C72-B6C3-2F55E40FD3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40782C6-EF12-4C72-B6C3-2F55E40FD3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40782C6-EF12-4C72-B6C3-2F55E40FD3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40782C6-EF12-4C72-B6C3-2F55E40FD3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

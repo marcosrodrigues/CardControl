@@ -1,0 +1,4 @@
+C:\Projetos\CardControl\CardControl.Entidades\bin\Debug\CardControl.Entidades.dll
+C:\Projetos\CardControl\CardControl.Entidades\bin\Debug\CardControl.Entidades.pdb
+C:\Projetos\CardControl\CardControl.Entidades\obj\Debug\CardControl.Entidades.dll
+C:\Projetos\CardControl\CardControl.Entidades\obj\Debug\CardControl.Entidades.pdb

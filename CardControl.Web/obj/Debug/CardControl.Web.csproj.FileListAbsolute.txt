@@ -1,0 +1,7 @@
+C:\Projetos\CardControl\CardControl.Web\bin\CardControl.Web.dll
+C:\Projetos\CardControl\CardControl.Web\bin\CardControl.Web.pdb
+C:\Projetos\CardControl\CardControl.Web\bin\EntityFramework.dll
+C:\Projetos\CardControl\CardControl.Web\bin\EntityFramework.xml
+C:\Projetos\CardControl\CardControl.Web\obj\Debug\CardControl.Web.csprojResolveAssemblyReference.cache
+C:\Projetos\CardControl\CardControl.Web\obj\Debug\CardControl.Web.dll
+C:\Projetos\CardControl\CardControl.Web\obj\Debug\CardControl.Web.pdb

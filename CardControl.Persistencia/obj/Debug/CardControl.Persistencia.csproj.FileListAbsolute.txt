@@ -1,0 +1,4 @@
+C:\Projetos\CardControl\CardControl.Persistencia\bin\Debug\CardControl.Persistencia.dll
+C:\Projetos\CardControl\CardControl.Persistencia\bin\Debug\CardControl.Persistencia.pdb
+C:\Projetos\CardControl\CardControl.Persistencia\obj\Debug\CardControl.Persistencia.dll
+C:\Projetos\CardControl\CardControl.Persistencia\obj\Debug\CardControl.Persistencia.pdb
