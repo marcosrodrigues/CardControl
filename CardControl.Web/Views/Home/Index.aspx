@@ -7,6 +7,6 @@
         <title>CardControl</title>
     </head>
     <body>
-        <h1>CardControl</h1>   
+        <h1>Card Control</h1>   
     </body>
 </html>
